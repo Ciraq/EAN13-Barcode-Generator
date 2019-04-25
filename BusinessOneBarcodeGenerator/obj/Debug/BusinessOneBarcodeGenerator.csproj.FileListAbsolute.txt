@@ -1,0 +1,7 @@
+C:\Users\chiraq.rasulov\Desktop\BusinessOneBarcodeGenerator\BusinessOneBarcodeGenerator\bin\Debug\BusinessOneBarcodeGenerator.exe
+C:\Users\chiraq.rasulov\Desktop\BusinessOneBarcodeGenerator\BusinessOneBarcodeGenerator\bin\Debug\BusinessOneBarcodeGenerator.pdb
+C:\Users\chiraq.rasulov\Desktop\BusinessOneBarcodeGenerator\BusinessOneBarcodeGenerator\obj\Debug\BusinessOneBarcodeGenerator.csprojResolveAssemblyReference.cache
+C:\Users\chiraq.rasulov\Desktop\BusinessOneBarcodeGenerator\BusinessOneBarcodeGenerator\obj\Debug\BusinessOneBarcodeGenerator.exe
+C:\Users\chiraq.rasulov\Desktop\BusinessOneBarcodeGenerator\BusinessOneBarcodeGenerator\obj\Debug\BusinessOneBarcodeGenerator.pdb
+D:\Projects\BusinessOneBarcodeGenerator\BusinessOneBarcodeGenerator\obj\Debug\BusinessOneBarcodeGenerator.exe
+D:\Projects\BusinessOneBarcodeGenerator\BusinessOneBarcodeGenerator\obj\Debug\BusinessOneBarcodeGenerator.pdb
